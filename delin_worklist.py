@@ -15,8 +15,6 @@
 #  SQL Exceptionが発生した場合は、近藤まで連絡。
 #
 #  created by BJProject(ichio.kondo)
-#
-
 import calendar
 import glob
 import MySQLdb
