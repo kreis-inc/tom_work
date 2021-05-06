@@ -1,7 +1,5 @@
 ## tom_work　クライス勤怠システム
 
-[！[]（http://img.youtube.com/vi/RrgJArxZTw4/0.jpg）]（http://www.youtube.com/watch?v=RrgJArxZTw4 "web bj"）
-
 ### ＜各種プログラム概要＞
    #### 1. 勤務表一括取込処理　delin_worklist.py
 【概要】
